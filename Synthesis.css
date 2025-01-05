@@ -14,7 +14,7 @@
 
 /* See https://github.com/Saltssaumure/synthesis-discord-theme#customisation for customisation settings. */
 :root {
-    --font-size: 90%;
+    --font-size: 70%;
     --synth-background-image:   url(https://saltssaumure.github.io/synthesis-discord-theme/backgrounds/default.avif);
     --synth-backdrop-opacity:   0.9         ;
     --synth-overlay-color:      255 165 0   ;
